@@ -1,0 +1,26 @@
+body {
+  margin: 60px;
+  background-color: #e59866;
+}
+.container-fluid {
+  background-color: #fdebd0;
+}
+.header {
+  text-align: center;
+}
+#imagetext {
+  background-color: #e59866 !important;
+}
+.main {
+  max-width: 660px; /* for  below IE7 use `width: 660px;` */
+  margin: 0 auto;
+}
+li span {
+  font-weight: bold;
+}
+.footer {
+  text-align: center;
+}
+#info {
+  text-align: center;
+}
